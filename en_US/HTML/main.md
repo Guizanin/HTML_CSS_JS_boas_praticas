@@ -1,4 +1,4 @@
-# 🇧🇷 HTML
+# 🇺🇸 HTML
 As the foundation of our website, we must be careful in how we build it. Should we do everything carelessly? Yes, we can—HTML accepts everything. However, we wouldn't be coherent or semantic. Using HTML elements that clearly describe the meaning of a page’s content, rather than just using generic tags like ```<div>``` and ```<span>```, improves the readability and comprehension of the code for both humans and machines, such as browsers and search engines.
 
 ## Benefits of Semantic HTML:
