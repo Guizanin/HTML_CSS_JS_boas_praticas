@@ -1,4 +1,4 @@
-# HTML
+# 🇺🇸 HTML
 Sendo a estutura do nosso site, temos que tomar cuidado de como a montamos. Temos fazer tudo de qualquer maneira? Sim podemos, o HTML aceita tudo porém não estaremos sendo coêrentes e nem semânticos. 
 usar elementos HTML que descrevem claramente o significado do conteúdo de uma página, em vez de apenas usar tags genéricas como ```<div>``` e ```<span>```. Isso melhora a legibilidade e a compreensão do código para humanos e máquinas, como navegadores e sistemas de busca. 
 
