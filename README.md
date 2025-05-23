@@ -9,6 +9,4 @@ Buscarei ser objetivo e com exemplos de código, o conteúdo também será divid
     [🇺🇸 HTML](en_US/HTML/main.md)
 
 
-### 🇧🇷 Materiais ainda em desenvolvimento.
-### 🇺🇸 Materials still in development.
-CSS, JS
+ > 🇧🇷 Materiais ainda em desenvolvimento. <br> 🇺🇸 Materials still in development. <br> 📝 CSS | 📝 JS
