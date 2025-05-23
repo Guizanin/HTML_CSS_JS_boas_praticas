@@ -4,9 +4,11 @@ Buscarei ser objetivo e com exemplos de código, o conteúdo também será divid
 
 🇺🇸 Here, I will discuss some best practices in Frontend development, based on my studies and experience. Best practices do not mean that they are mandatory to follow, but as the name suggests, they are "good practices". I'll keep a copy of the content in the pt_BR/en_US folder for both Portuguese and English. I'll try to be concise and include code examples. The content will also be split into different files to keep each topic clear. 
 
-OBS:
-### 🇧🇷 Materiais ainda em desenvolvimento.
-### 🇺🇸 Materials still in development.
 
   > [🇧🇷 HTML](pt_BR/HTML/main.md) <br>
     [🇺🇸 HTML](en_US/HTML/main.md)
+
+
+### 🇧🇷 Materiais ainda em desenvolvimento.
+### 🇺🇸 Materials still in development.
+CSS, JS
