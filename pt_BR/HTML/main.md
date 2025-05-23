@@ -3,6 +3,7 @@ Sendo a estutura do nosso site, temos que tomar cuidado de como a montamos. Temo
 usar elementos HTML que descrevem claramente o significado do conteúdo de uma página, em vez de apenas usar tags genéricas como ```<div>``` e ```<span>```. Isso melhora a legibilidade e a compreensão do código para humanos e máquinas, como navegadores e sistemas de busca. 
 
 ## Benefícios do HTML semântico:
+
 #### Melhora a acessibilidade:
 Tags semânticas ajudam pessoas com deficiência, especialmente aquelas que usam tecnologias assistivas como leitores de tela, a navegar e entender o conteúdo da página com mais facilidade. 
 
@@ -11,7 +12,7 @@ Os mecanismos de busca como o Google podem compreender melhor o conteúdo e o co
 Melhora a legibilidade e a manutenção do código.
 
 #### Tags semânticas
-tornam o código mais organizado e fácil de entender, facilitando a manutenção e atualização da página no futuro. 
+Tornam o código mais organizado e fácil de entender, facilitando a manutenção e atualização da página no futuro. 
 
 #### Aumenta a consistência
 O uso consistente de tags semânticas garante que o significado do conteúdo seja claro e consistente em toda a página, o que melhora a experiência do usuário. 
