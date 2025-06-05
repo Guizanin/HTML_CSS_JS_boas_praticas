@@ -7,4 +7,8 @@ Aqui abordaremos boas práticas, como exemplos colocarei REACT, mas vai valer pa
 
 
 ### Tópicos
-<a target="_blank" href="./assuntos/variaveis.md">Variáveis</a>
+[Variáveis](./assuntos/variaveis.md)
+
+[Funções e Métodos](./assuntos/funcoes.md)
+
+[Componentes](./assuntos/componentes.md)
